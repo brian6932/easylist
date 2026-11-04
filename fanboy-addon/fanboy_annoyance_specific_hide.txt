@@ -1266,6 +1266,7 @@ blitz.gg##div[class]:has(> .placeholder > [href^="/pro?utm_"])
 deviantart.com##div[role="complementary"] > div[class]:has(> div > iframe[title="DealerAdIframe"])
 ign.com#?#.promo-card:has-text(/Become a member|IGN Plus|IGN Store/)
 ! :has-text
+votes.decisiondeskhq.com##.z-9999:has-text(Create a free account)
 aeon.co#?#.print\:hidden.mb-9:has-text(I would like to donate)
 aeon.co#?#.z-900:has-text(Join more than)
 asuracomic.net#?#.p-4.z-50:has-text(Upgrade to)
